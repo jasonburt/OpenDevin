@@ -312,7 +312,7 @@ class OpenHands {
 
   static async searchGitHubRepositories(
     query: string,
-    per_page = 5,
+    per_page = 30,
   ): Promise<GitHubRepository[]> {
     const response = await openHands.get<GitHubRepository[]>(
       "/api/github/search/repositories",
