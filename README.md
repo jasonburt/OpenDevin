@@ -83,9 +83,9 @@ Visit [Running OpenHands](https://docs.all-hands.dev/modules/usage/installation)
 > [get in touch with us](https://docs.google.com/forms/d/e/1FAIpQLSet3VbGaz8z32gW9Wm-Grl4jpt5WgMXPgJ4EDPVmCETCBpJtQ/viewform)
 > for advanced deployment options.
 
-If you want to modify the OpenHands source code, check out [Development.md](https://github.com/All-Hands-AI/OpenHands/blob/main/Development.md).
+Want to modify the OpenHands source code? Check out our [Development.md](https://github.com/All-Hands-AI/OpenHands/blob/main/Development.md) guide.
 
-Having issues? The [Troubleshooting Guide](https://docs.all-hands.dev/modules/usage/troubleshooting) can help.
+Running into issues? Our friendly [Troubleshooting Guide](https://docs.all-hands.dev/modules/usage/troubleshooting) is here to help!
 
 ## 📖 Documentation
 
@@ -126,9 +126,11 @@ OpenHands is built by a large number of contributors, and every contribution is 
 
 For a list of open source projects and licenses used in OpenHands, please see our [CREDITS.md](./CREDITS.md) file.
 
+---
+
 ## 📚 Cite
 
-```
+```bibtex
 @misc{openhands,
       title={{OpenHands: An Open Platform for AI Software Developers as Generalist Agents}},
       author={Xingyao Wang and Boxuan Li and Yufan Song and Frank F. Xu and Xiangru Tang and Mingchen Zhuge and Jiayi Pan and Yueqi Song and Bowen Li and Jaskirat Singh and Hoang H. Tran and Fuqiang Li and Ren Ma and Mingzhang Zheng and Bill Qian and Yanjun Shao and Niklas Muennighoff and Yizhe Zhang and Binyuan Hui and Junyang Lin and Robert Brennan and Hao Peng and Heng Ji and Graham Neubig},
